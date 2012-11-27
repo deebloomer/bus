@@ -49,4 +49,9 @@ Product.create({title: 'DubWexZ1_3',
                description: 'Dublin to Wexford',
                image_url: 'ruby.jpg',
                price:'15.00'})
+			   
+Product.create({title: '12345678910 eleven twellllvve',
+               description: 'dee testing to see if she can push up a change!!',
+               image_url: 'ruby.jpg',
+               price:'1000.00'})
 
