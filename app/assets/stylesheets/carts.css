@@ -1,0 +1,11 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+#yourCart {
+    background-color: #ff69b4;
+    width: 20%;
+    padding: 10px;
+    border: 1px solid #dedede;
+}
